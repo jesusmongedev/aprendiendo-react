@@ -1,0 +1,3 @@
+[submodule "projects/00-twitter-follow-card"]
+	path = projects/00-twitter-follow-card
+	url = git@github.com:jesusmongedev/twitter-clone.git
