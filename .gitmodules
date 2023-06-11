@@ -1,3 +1,6 @@
 [submodule "projects/00-twitter-follow-card"]
 	path = projects/00-twitter-follow-card
 	url = git@github.com:jesusmongedev/twitter-clone.git
+[submodule "projects/04-react-prueba-tecnica"]
+	path = projects/04-react-prueba-tecnica
+	url = git@github.com:jesusmongedev/04-react-prueba-tecnica.git
