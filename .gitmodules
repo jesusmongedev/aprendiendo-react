@@ -4,3 +4,6 @@
 [submodule "projects/04-react-prueba-tecnica"]
 	path = projects/04-react-prueba-tecnica
 	url = git@github.com:jesusmongedev/04-react-prueba-tecnica.git
+[submodule "projects/05-react-movies-app"]
+	path = projects/05-react-movies-app
+	url = git@github.com:jesusmongedev/react-movies-app.git
